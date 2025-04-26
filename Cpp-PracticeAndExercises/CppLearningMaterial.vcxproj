@@ -18,11 +18,14 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="vector.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{67fde5bd-c647-4f6a-807d-0861b1f0ce1e}</ProjectGuid>
-    <RootNamespace>Challenge001</RootNamespace>
+    <RootNamespace>CppLearningMaterial</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>CppLearningMaterial</ProjectName>
   </PropertyGroup>
