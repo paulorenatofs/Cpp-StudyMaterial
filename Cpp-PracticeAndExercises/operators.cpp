@@ -43,6 +43,9 @@ int main()
 	std::cout << "Pennies: " << remainingPennies << std::endl;
 
 
+	std::cout << 2 % 5;
+
+
 
 	return 0;
 }
