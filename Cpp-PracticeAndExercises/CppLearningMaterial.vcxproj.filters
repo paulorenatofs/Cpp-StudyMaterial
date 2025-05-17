@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="dowhile.cpp">
+    <ClCompile Include="loopChallenge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
