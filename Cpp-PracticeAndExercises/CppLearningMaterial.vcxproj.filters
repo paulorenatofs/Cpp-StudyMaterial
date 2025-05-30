@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="loopChallenge.cpp">
+    <ClCompile Include="CryptChallenge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
